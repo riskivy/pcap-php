@@ -1,0 +1,16 @@
+{
+    "name": "riskivy/pcap-php",
+    "description": "A compact reader/writer for tcpdumps",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jack Hu",
+            "email": "jack.hu@tophant.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+      "psr-4":{"LibPcap\\":"src/LibPcap/"}
+    }
+}
