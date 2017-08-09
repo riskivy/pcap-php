@@ -13,4 +13,9 @@
     "autoload":{
       "psr-4":{"LibPcap\\":"src/LibPcap/"}
     }
+    "extra": {
+      "branch-alias": {
+        "dev-master": "1.0.x-dev"
+      }
+    }
 }
